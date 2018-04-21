@@ -1,0 +1,23 @@
+
+.img-login {
+
+}
+
+.login-form-control {
+  border-radius: 3px;
+  padding: 14px;
+  border: 1px solid #e8e4e4;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #dbdada;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #dbdada;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #dbdada;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #dbdada;
+}
